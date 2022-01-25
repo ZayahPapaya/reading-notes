@@ -16,3 +16,6 @@ A growth mindset is being prepared to adapt, learn, and take in others' experien
 >"Hello, World." -Amanda Iverson
 
 ![intro](https://user-images.githubusercontent.com/98374255/150915183-0e618610-1e69-468d-9909-ccbca3fb8049.png)
+
+**Stretch Goals
+Beef up your profile page! Add an image, a bio, contact info… as much as you feel comfortable including. Remember, this page will act as a showcase of your developer skills, so make it look great!**
