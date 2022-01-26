@@ -19,10 +19,17 @@ A growth mindset is being prepared to adapt, learn, and take in others' experien
 ![intro](https://user-images.githubusercontent.com/98374255/150915183-0e618610-1e69-468d-9909-ccbca3fb8049.png)
 
 **Stretch Goals
-Beef up your profile page! Add an image, a bio, contact info… as much as you feel comfortable including. Remember, this page will act as a showcase of your developer skills, so make it look great!**
--->
+Beef up your profile page! Add an image, a bio, contact info… as much as you feel comfortable including. Remember, this page will act as a showcase of your developer skills, so make it look great!**-->
+
+<!--Beginning of Navbar-->
 <nav>
-                 <!--Nav is navigation for my button layout-->
+      <header>
+      <p>
+        <h1>
+          Table of Contents
+        </h1>
+      </p>
+    </header>
       <ul>
         <li>
           <button>
@@ -34,23 +41,37 @@ Beef up your profile page! Add an image, a bio, contact info… as much as you f
         <li>
           <button>
             <a href="https://www.youtube.com/">
-            Learning
+            Placeholder
             </a>
           </button>
         </li>
         <li>
           <button>
             <a href="https://www.youtube.com/">
-            References
+            Placeholder
             </a>
           </button>
         </li>
         <li>
           <button>
             <a href="https://www.youtube.com/">
-            About
+            Placeholder
           </button>
           </a>
         </li>
       </ul>
     </nav>
+<!--End of Navbar-->
+
+**Notes**
+1. pwd is present working directory, ie: current folder/directory
+2. ls is list, listing current contents of pwd
+3. cd [directory_name] is a case sensitive command to change directory, opening that directory/folder
+4. cd .. to move up a level
+5. cd ../.. to link multiple movements
+6. mkdir is to make a directory
+7. cp for copy
+8. mv for move | syntax is mv [target] [destination]
+9. These directories are just the folder system. Move up and down them, move horizontally in current folder. Works identical to GUI version, but without visuals. 
+10. Commands are exactly the same as user interface. I expect all user commands have cmd equivalents.
+11. 
