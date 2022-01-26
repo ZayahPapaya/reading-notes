@@ -1,3 +1,4 @@
+<!--
 # reading-notes
 102 notes | Code Fellows
 Hello, World!
@@ -19,3 +20,37 @@ A growth mindset is being prepared to adapt, learn, and take in others' experien
 
 **Stretch Goals
 Beef up your profile page! Add an image, a bio, contact info… as much as you feel comfortable including. Remember, this page will act as a showcase of your developer skills, so make it look great!**
+-->
+<nav>
+                 <!--Nav is navigation for my button layout-->
+      <ul>
+        <li>
+          <button>
+            <a href="https://zayahpapaya.github.io/reading-notes/">
+            Home
+            </a>
+          </button>
+        </li>
+        <li>
+          <button>
+            <a href="https://www.youtube.com/">
+            Learning
+            </a>
+          </button>
+        </li>
+        <li>
+          <button>
+            <a href="https://www.youtube.com/">
+            References
+            </a>
+          </button>
+        </li>
+        <li>
+          <button>
+            <a href="https://www.youtube.com/">
+            About
+          </button>
+          </a>
+        </li>
+      </ul>
+    </nav>
