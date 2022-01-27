@@ -64,7 +64,8 @@ Beef up your profile page! Add an image, a bio, contact info… as much as you f
     </nav>
 -->
 <!--End of Navbar-->
-# Home
+# Table of Contents
+
 [Home](README.md)
 
 [Revisions & Cloud](revisionsCloud.md)
@@ -72,3 +73,6 @@ Beef up your profile page! Add an image, a bio, contact info… as much as you f
 [Markdown](learningMarkdown.md)
 
 [Coder's Computer](codersComputer.md)
+
+## Home
+Texthere
