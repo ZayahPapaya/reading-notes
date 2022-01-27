@@ -22,6 +22,7 @@ A growth mindset is being prepared to adapt, learn, and take in others' experien
 Beef up your profile page! Add an image, a bio, contact info… as much as you feel comfortable including. Remember, this page will act as a showcase of your developer skills, so make it look great!**-->
 
 <!--Beginning of Navbar-->
+<!--
 <nav>
       <header>
       <p>
@@ -61,8 +62,8 @@ Beef up your profile page! Add an image, a bio, contact info… as much as you f
         </li>
       </ul>
     </nav>
+-->
 <!--End of Navbar-->
-
 [Test](revisionsCloud.md)
 
 **Notes**
