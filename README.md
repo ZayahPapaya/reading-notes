@@ -74,4 +74,5 @@ Beef up your profile page! Add an image, a bio, contact info… as much as you f
 8. mv for move | syntax is mv [target] [destination]
 9. These directories are just the folder system. Move up and down them, move horizontally in current folder. Works identical to GUI version, but without visuals. 
 10. Commands are exactly the same as user interface. I expect all user commands have cmd equivalents.
-11. 
+
+This has been modified via local
