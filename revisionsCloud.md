@@ -1,12 +1,16 @@
 # Table of Contents
 
-[Home](README.md)
+Troubleshooting
+
+[Home](home.md)
 
 [Revisions & Cloud](revisionsCloud.md)
 
 [Markdown](learningMarkdown.md)
 
 [Coder's Computer](codersComputer.md)
+
+[Learning HTML](learningHTML.md)
 
 ## Revisions and the Cloud
   Today we've gone over version control, both indirectly and directly in teaching. We're using git and github as our method, which has been quite interesting to learn about. The excitement when my terminal produced results after modifying and pushing a file was greater than I'd expected.
