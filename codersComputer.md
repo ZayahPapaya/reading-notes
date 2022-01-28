@@ -1,4 +1,18 @@
-# The Terminal
+# Table of Contents
+
+Troubleshooting
+
+[Home](home.md)
+
+[Revisions & Cloud](revisionsCloud.md)
+
+[Markdown](learningMarkdown.md)
+
+[Coder's Computer](codersComputer.md)
+
+[Learning HTML](learningHTML.md)
+
+# Learning About the Terminal
 1. pwd is present working directory, ie: current folder/directory
 2. ls is list, listing current contents of pwd
 3. cd [directory_name] is a case sensitive command to change directory, opening that directory/folder
