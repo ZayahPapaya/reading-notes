@@ -65,3 +65,16 @@ Beef up your profile page! Add an image, a bio, contact info… as much as you f
 -->
 <!--End of Navbar-->
 
+# Table of Contents
+
+Troubleshooting
+
+[Home](home.md)
+
+[Revisions & Cloud](revisionsCloud.md)
+
+[Markdown](learningMarkdown.md)
+
+[Coder's Computer](codersComputer.md)
+
+[Learning HTML](learningHTML.md)
