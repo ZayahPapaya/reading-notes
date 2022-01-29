@@ -64,4 +64,3 @@ Beef up your profile page! Add an image, a bio, contact info… as much as you f
     </nav>
 -->
 <!--End of Navbar-->
-

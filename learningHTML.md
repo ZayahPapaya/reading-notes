@@ -1,7 +1,5 @@
 # Table of Contents
 
-Troubleshooting
-
 [Home](home.md)
 
 [Revisions & Cloud](revisionsCloud.md)
@@ -12,7 +10,10 @@ Troubleshooting
 
 [Learning HTML](learningHTML.md)
 
+[CSS Design](webCSS.md)
+
 ## Learning HTML
+
 HTML, similar to markdown, has been relatively easy for me to pick up. It was at the start, and it was now after having already taken the 101 course. My notes here will be terse for now but still explain what exactly I've learned, followed by some of the information revisited that I needed a refresher on.
 
 HTML is a language designed purely for organizing content on a webpage that can be viewed by a browser. It's fairly barebones, and without CSS to support it it is terrible to actually view. Much of it so far has simply been flags for organizing said content to refer to later via CSS, or even simply for organizing for the human behind the screen attempting to fill out the content in a reasonable timeframe. HTML itself is surprisingly simple, though there are some tricks to it such as including alt text for images for users that may not be able to view the image itself and need a description, such as those with a screen reader.
