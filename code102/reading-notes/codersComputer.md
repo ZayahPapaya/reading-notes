@@ -12,6 +12,8 @@
 
 [CSS Design](webCSS.md)
 
+[Intro to JavaScript](introJK.md)
+
 ## Learning About the Terminal
 
 1. pwd is present working directory, ie: current folder/directory

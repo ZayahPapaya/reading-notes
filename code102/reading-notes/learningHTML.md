@@ -12,6 +12,8 @@
 
 [CSS Design](webCSS.md)
 
+[Intro to JavaScript](introJK.md)
+
 ## Learning HTML
 
 HTML, similar to markdown, has been relatively easy for me to pick up. It was at the start, and it was now after having already taken the 101 course. My notes here will be terse for now but still explain what exactly I've learned, followed by some of the information revisited that I needed a refresher on.

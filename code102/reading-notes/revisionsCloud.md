@@ -12,6 +12,8 @@
 
 [CSS Design](webCSS.md)
 
+[Intro to JavaScript](introJK.md)
+
 ## Revisions and the Cloud
 
   Today we've gone over version control, both indirectly and directly in teaching. We're using git and github as our method, which has been quite interesting to learn about. The excitement when my terminal produced results after modifying and pushing a file was greater than I'd expected.
