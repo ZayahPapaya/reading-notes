@@ -14,6 +14,10 @@
 
 [Intro to JavaScript](introJK.md)
 
+[Functions and Operators](functionsOperators.md)
+
+[Operators and Loops](loopsOperators.md)
+
 ## Introduction to JavaScript
 
 JavaScript is a lightweight language that is intended primarily for use in websites, but can find use in other applications as well. It uses variables and events to produce outputs via your scripts. It functions similarly to algebra in concept, though the "math" does not always act in the same way. For example, if X = cat and Y = dog, then X + Y = catdog. Strings of information can be added in this way. Additionally, logic can be performed based around variables, such as a simple "If X = cat, Y = dog" (In concept, at least. This is not an accurate representation of the code.)

@@ -80,3 +80,7 @@ Beef up your profile page! Add an image, a bio, contact info… as much as you f
 [CSS Design](webCSS.md)
 
 [Intro to JavaScript](introJK.md)
+
+[Functions and Operators](functionsOperators.md)
+
+[Operators and Loops](loopsOperators.md)

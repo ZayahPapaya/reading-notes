@@ -14,6 +14,10 @@
 
 [Intro to JavaScript](introJK.md)
 
+[Functions and Operators](functionsOperators.md)
+
+[Operators and Loops](loopsOperators.md)
+
 ## Learning Markdown
 
 Personally, Markdown has been a breeze. Discord, and Reddit, both use a near identical format and near everything I know there can be applied here. There's little else to say, other than occasionally needing to refer to [Markdown Guides](https://www.markdownguide.org/basic-syntax/). Preferred [Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

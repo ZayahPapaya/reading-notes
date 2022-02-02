@@ -14,6 +14,10 @@
 
 [Intro to JavaScript](introJK.md)
 
+[Functions and Operators](functionsOperators.md)
+
+[Operators and Loops](loopsOperators.md)
+
 ## Learning About the Terminal
 
 1. pwd is present working directory, ie: current folder/directory
