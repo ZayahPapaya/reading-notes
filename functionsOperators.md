@@ -25,3 +25,4 @@ JavaScript runs similarly to sheet music, or more simply a set of instructions. 
 Functions are sets of code that are not run with the rest, and instead are prepared and set aside for when they are called. Another event, perhaps a button press, will call this function to then run through its script to completion just like a normal script. It can be repeated, and called more than once.
 
 Operators are simply math operators. Addition, subtraction, and the like. They can work a bit strangely in the case of strings, where 2 + 2 may very well be 22 for once.
+Test
