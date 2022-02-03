@@ -81,7 +81,7 @@ Troubleshooting
 
 [CSS Design](webCSS.md)
 
-[Intro to JavaScript](introJK.md)
+[Intro to JavaScript](introJS.md)
 
 [Functions and Operators](functionsOperators.md)
 
