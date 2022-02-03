@@ -67,8 +67,6 @@ Beef up your profile page! Add an image, a bio, contact info… as much as you f
 
 # Table of Contents
 
-Troubleshooting
-
 [Home](home.md)
 
 [Revisions & Cloud](revisionsCloud.md)
@@ -82,7 +80,3 @@ Troubleshooting
 [CSS Design](webCSS.md)
 
 [Intro to JavaScript](introJK.md)
-
-[Functions and Operators](functionsOperators.md)
-
-[Operators and Loops](loopsOperators.md)
