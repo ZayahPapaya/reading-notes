@@ -1,5 +1,6 @@
 # Table of Contents
 
+[Test](test.html)
 1
 2
 3
