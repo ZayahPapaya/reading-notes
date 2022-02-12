@@ -65,24 +65,8 @@ Beef up your profile page! Add an image, a bio, contact info… as much as you f
 -->
 <!--End of Navbar-->
 
-# Table of Contents
+# Class Directory
 
-Troubleshooting
+[102](home102.md)
 
-[Home](home.md)
-
-[Revisions & Cloud](revisionsCloud.md)
-
-[Markdown](learningMarkdown.md)
-
-[Coder's Computer](codersComputer.md)
-
-[Learning HTML](learningHTML.md)
-
-[CSS Design](webCSS.md)
-
-[Intro to JavaScript](introJS.md)
-
-[Functions and Operators](functionsOperators.md)
-
-[Operators and Loops](loopsOperators.md)
+[201](home201.md)
