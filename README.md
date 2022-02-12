@@ -74,7 +74,9 @@ Beef up your profile page! Add an image, a bio, contact info… as much as you f
 ## Welcome
 
 This is the primary home page for my notes 'website' which will redirect you to individual classes as I take them. This is **not** the table of contents for those classes, only a sort of catalogue similar to picking a book from a library. The meat of what you're looking for will be in one of the above links.
+
 ![Bean](bean.png)
+
 `let author;
 lett coinflip = Math.floor(Math.random() * 3);
 let SaleStatus;
