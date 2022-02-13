@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Title</title>
+        <title>Touch Nut</title>
 <!-- Using a total of four JavaScript ‘prompt’ statements along the lines of our class demo, have a user answer four questions.
 
 The user’s response to each question (input) should be stored in a separate variable. Name your variables carefully and let to define your variables.
@@ -20,19 +20,33 @@ In the <main> of the file, place a <h1> tag with the content “Class 1 Lab”. 
 In the HTML portion of the file, place the four questions within a series of <p> tags so that they are listed on the screen.
 
 Give each <p> tag a different text color and background color by using inline styling. -->
+    <script>
+        function touchNut(){
+            alert('You will answer questions relating to the coconut.');
+            let answerVerb = prompt('Use a verb that comes to mind when touching the coconut.');
+            console.log(answerVerb);
+            let answerNoun = prompt('Use a noun that comes to mind when touching the coconut.');
+            console.log(answerNoun);
+            let answerAdj = prompt('Use an adjective that comes to mind when touching the coconut.');
+            console.log(answerAdj);
+            let answerName = prompt('What is your name?');
+            console.log(answerName);
+            alert('The coconut will ' + answerVerb + ' with ' + answerName + ' alongside the ' + answerAdj + ' ' + answerNoun + '.');
+            return answerNoun;
+        }
+    </script>
     </head>
-    <body style="background-color: grey">
+    <body style="background-color:gray">
         <main>
-            <!-- <p>Testing</p> -->
-            <img alt="Test Image" src="coconut.jpg">
+            <h1 style="color:chartreuse">Class 1 Lab</h1>
+            <h2>Touch the coconut.</h2>
+            <img alt="Test Image" src="coconut.jpg" onclick="touchNut()">
+            <!-- <p>
+                The coconut will <span><script>document.write(answerVerb)</script></span>
+            </p> -->
         </main>
-        <footer>
-            <!-- <p>By Zayah Papaya</p> -->
+        <footer style="background-color:blueviolet">
+            <p style="color:white">By Zayah Papaya</p>
         </footer>
-        <script>
-            console.log("This is a string");
-            let nameTest = prompt('What is your name?');
-            console.log(nameTest)
-        </script>
     </body>
 </html>
