@@ -1,7 +1,7 @@
 # Table of Contents
 
 [Class 01](class-01.md)
-2
+[Class 02](class-02.md)
 3
 4
 5
