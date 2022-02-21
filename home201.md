@@ -1,9 +1,9 @@
 # Table of Contents
 
 [Class 01](class-01.md)
-2
-3
-4
+[Class 02](class-02.md)
+[Class 03](class-03.md)
+[Class 04](class-04.md)
 5
 6
 7
