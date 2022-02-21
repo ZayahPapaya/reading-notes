@@ -2,8 +2,8 @@
 
 [Class 01](class-01.md)
 [Class 02](class-02.md)
-3
-4
+[Class 03](class-03.md)
+[Class 04](class-04.md)
 5
 6
 7

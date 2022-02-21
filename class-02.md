@@ -2,8 +2,8 @@
 
 [Class 01](class-01.md)
 [Class 02](class-02.md)
-3
-4
+[Class 03](class-03.md)
+[Class 04](class-04.md)
 5
 6
 7
@@ -32,4 +32,4 @@ JavaScript is made up of scripts that perform step by step actions and instructi
 
 ### Decisions and Loops
 
-Loops can make decisions for your code, although you must write the logic for it of course. This logic usually compares one or more values to a fixed value or each other to determine whether they are true, false, or if there are multiple options and one or more are 'correct'. These can be chained together for complicated decision-making. 
+Loops can make decisions for your code, although you must write the logic for it of course. This logic usually compares one or more values to a fixed value or each other to determine whether they are true, false, or if there are multiple options and one or more are 'correct'. These can be chained together for complicated decision-making.
