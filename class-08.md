@@ -1,0 +1,23 @@
+# Table of Contents
+
+[Class 01](class-01.md)
+[Class 02](class-02.md)
+[Class 03](class-03.md)
+[Class 04](class-04.md)
+[Class 05](class-05.md)
+[Class 06](class-06.md)
+[Class 07](class-07.md)
+[Class 08](class-08.md)
+9
+10
+11
+12
+13
+14
+15
+
+## Reading 08
+
+### CSS Layouts (again)
+
+We've gone over CSS a number of times and, while the code is relatively easy compared to JavaScript so far, the actual artistic design does not come naturally to me. Notably, however, are the layout grids on pages 389-390 in the Duckett HTML/CSS textbook as a method of further organizing a webpage in a predefined fashion that I don't have to come up with. Please, David, show me the wisdom of entirely skipping on making the design myself. The reading page also presents layout grids, which could do to place my Salmon Cookies table on my page alongside information in a clean format.
