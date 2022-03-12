@@ -8,7 +8,7 @@
 [Class 06](class-06.md)
 [Class 07](class-07.md)
 [Class 08](class-08.md)
-9
+[Class 09](class-09.md)
 10
 11
 12
