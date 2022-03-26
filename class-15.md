@@ -16,6 +16,4 @@
 [Class 14](class-14.md)
 [Class 15](class-15.md)
 
-## Reading 03
-
-### Topic
+## Reading 15
