@@ -1,8 +1,8 @@
 # Table of Contents
 
-[Class Select](README.md)
+[Class Select](../README.md)
 
-[Class 102 Home](home102.md)
+[Class 102 Home](../home102.md)
 
 [Revisions & Cloud](revisionsCloud.md)
 

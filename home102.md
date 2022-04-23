@@ -4,21 +4,21 @@
 
 [Class 102 Home](home102.md)
 
-[Revisions & Cloud](revisionsCloud.md)
+[Revisions & Cloud](102/revisionsCloud.md)
 
-[Markdown](learningMarkdown.md)
+[Markdown](102/learningMarkdown.md)
 
-[Coder's Computer](codersComputer.md)
+[Coder's Computer](102/codersComputer.md)
 
-[Learning HTML](learningHTML.md)
+[Learning HTML](102/learningHTML.md)
 
-[CSS Design](webCSS.md)
+[CSS Design](102/webCSS.md)
 
-[Intro to JavaScript](introJS.md)
+[Intro to JavaScript](102/introJS.md)
 
-[Functions and Operators](functionsOperators.md)
+[Functions and Operators](102/functionsOperators.md)
 
-[Operators and Loops](loopsOperators.md)
+[Operators and Loops](102/loopsOperators.md)
 
 ## Home
 
