@@ -1,0 +1,20 @@
+# Table of Contents
+
+[Class 01](class-01.md)
+[Class 02](class-02.md)
+
+## Things I want to know more about
+
+### React Lifecycle
+
+  1: Render first
+  2: Constructor
+  3: Constructor -> Render -> ComponentDidMount -> componentWillUnmount
+  4: Used for loading network requests, or initialize the DOM immediately after component is mounted.
+
+### React State Vs Props
+
+  1: Pass information similarly to a function, information from "above" to initialize the component
+  2: Props are passed into a component, and state is handled inside the component
+  3: When the state changes
+  4: Anything that should be able to change actively inside the component.

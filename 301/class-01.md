@@ -1,6 +1,7 @@
 # Table of Contents
 
 [Class 01](class-01.md)
+[Class 02](class-02.md)
 
 ## Things I want to know more about
 
