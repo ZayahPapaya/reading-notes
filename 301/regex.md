@@ -98,3 +98,17 @@
       - The original string is left unchanged.
     - Returns a new string, with some or all matches of a pattern replaced by a replacement.
     - Syntax: `str.replace(pattern, replacer)`
+
+`let string = 'The rain in Spain falls mainly in the plain'`
+`let pattern = /([A-Za-z]in)\b/g`
+`console.log(pattern.test(string))`
+`true`
+(The r**ain** in Sp**ain** falls mainly in the pl**ain**)
+
+`pattern = /\b[a-z]/gmi`
+`console.log(string.match(pattern))`
+`['T','r','i','S','f','m','i','t','p']`
+
+`pattern = /\b\w/gi`
+`console.log(string.replace(pattern, '-'))`
+`-he -ain -n -pain -alls -ainly -n -he -lain`
