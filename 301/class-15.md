@@ -19,13 +19,4 @@
 
 ## Things I want to know more about
 
-### React Forms
-
-  1: An input form element controlled by React that that controls what happens in the form on user input
-  2: We should update the state with their responses as soon as they enter them. This is so we have control of the input and can update other elements with the information live.
-  3: event.target.name
-
-### Ternary
-
-  1: Shorter code!
-  2: `x === y ? console.log(true): console.log(false);`
+### -
