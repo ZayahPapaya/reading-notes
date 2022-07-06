@@ -1,5 +1,10 @@
 # Table of Contents
 
+## Prepwork
+
+[Introduction to SQL](401/introSQL.md)
+## Classes
+
 [Class 01](401/class-01.md)
 [Class 02](401/class-02.md)
 [Class 03](401/class-03.md)
