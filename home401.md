@@ -3,6 +3,7 @@
 ## Prepwork
 
 [Introduction to SQL](401/introSQL.md)
+[Engineering](401/engineering.md)
 ## Classes
 
 [Class 01](401/class-01.md)
