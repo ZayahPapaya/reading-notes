@@ -1,8 +1,8 @@
-# Node Ecosystem
+# Class 1
 
 [401 Home](../home401.md)
 
-## Node
+## Node Ecosystem
 
 - Node is an eingine to run your server's JavaScript
 - Runtime means that Node executes JavaScript directly on our computer.
