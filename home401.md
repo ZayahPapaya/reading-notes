@@ -21,6 +21,7 @@
 [Class 13](401/class-13.md)
 [Class 14](401/class-14.md)
 [Class 15](401/class-15.md) -->
+[Class 30](401/class-30.md)
 [Class 35](401/class-35.md)
 [Class 36](401/class-36.md)
 [Class 37](401/class-37.md)
